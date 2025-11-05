@@ -19,3 +19,6 @@ Métodos chamados bind, socket, write, listen etc. Métodos que invocam as primi
 
 ---Exceções---
 Problemas não previstos durante a construção do código
+Criar um mecanismo no programa para tratar essas excessões a fim de não quebrar o programa
+--Try e Accept--
+Ao inves do programa travar ele vai para o accept, assim evita o programa de travar, ou seja escolhemos a interrupção que vamos tratar e como tratá-la
